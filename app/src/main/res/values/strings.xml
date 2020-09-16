@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BelanjaYuk</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="atau">Atau</string>
+    <string name="register">Daftar</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+    <string name="history">History</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="belanja_yuk">Belanja \nYuk</string>
+</resources>
